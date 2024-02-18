@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'chatbuho',
-  projectName: 'documentacion',
+  projectName: 'Caso01',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
