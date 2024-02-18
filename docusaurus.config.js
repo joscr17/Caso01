@@ -14,7 +14,7 @@ const config = {
   url: 'https://documentacion.chat.buho.la',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/Caso01/',
 
   // GitHub pages deployment config.
   organizationName: 'chatbuho',
